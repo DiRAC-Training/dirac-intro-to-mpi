@@ -1,8 +1,8 @@
 ---
-title: Common Communication Patterns [Optional]
+title: Common Communication Patterns
 slug: "dirac-intro-to-mpi-communication-patterns"
-teaching: 20
-exercises: 30
+teaching: 0
+exercises: 0
 math: true
 questions:
 - What are some common data communication patterns in MPI?
